@@ -1,5 +1,5 @@
 //HeadBob.js
-  private var timer = 0.0; 
+private var timer = 0.0; 
  var bobbingSpeed = 0.2; 
  var bobbingAmount = 0.08; 
  var midpoint = 1.0; 
