@@ -1,6 +1,4 @@
 //Flashlight.js
-#pragma strict
-
 var flashlightLightSource : Light;
 var lightOn : boolean = true;
 var lightDrain : float = 0.1;
