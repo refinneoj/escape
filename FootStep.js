@@ -1,4 +1,3 @@
-//FootStep.js
 var ground : AudioClip[];
 
 private var step : boolean = true;
