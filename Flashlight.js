@@ -71,7 +71,7 @@ function Update()
 		lightOn = false;
 	}
 	
-	if(Input.GetKeyUp(KeyCode.F))
+	if(Input.GetKeyUp(KeyCode.Mouse1))
 	{
 		toggleFlashlight();
 		toggleFlashlightSFX();
