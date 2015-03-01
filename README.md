@@ -2,7 +2,7 @@ ESCAPE
 
 Group Name:         EunYan Games
 
-Group Members:      Eunice M. Dimacuta
+Group Members:      Eunice M. Dimacuta and
                     Diane A. Lucena
 
 Name of Game:       Escape
