@@ -1,12 +1,20 @@
-game-project
-============
+ESCAPE
 
-My first repository on GitHub
+Group Name:         EunYan Games
 
-Game Design:
-	In the game, the goal is to get out of the forest. In the way out, many obstacles are going to stop the player. Fail in dealing with the obstacles, GAME OVER
-	While in the gameplay, the player has possession of flashlight (that should be used because its really dark there!) consuming its battery is helping your game over so better find supplies.
+Group Members:      Eunice M. Dimacuta and
+                    Diane A. Lucena
 
+Name of Game:       Escape
 
-Storyline of the Game:
-	The Player is stuck in a warehouse, didn't remember anything and why he was there. Then he realized he need to get out of there before he die of scare o_O
+Game Description:   In the game, the goal is to get out of the forest. In the way out, many obstacles are going to stop the     
+                    player. Fail in dealing with the obstacles, GAME OVER
+                    While in the gameplay, the player has possession of flashlight (that should be used because its really dark                     there!) consuming its battery is helping your game over so better find supplies.
+
+Genre:              Survival Game
+
+Platform:           PC
+
+Language:           C# or unityscript(javascript)
+
+Tools:              Unity
