@@ -7,14 +7,14 @@ Group Members:      Eunice M. Dimacuta and
 
 Name of Game:       Escape
 
-Game Description:   In the game, the goal is to get out of the forest. In the way out, many obstacles are going to stop the     
-                    player. Fail in dealing with the obstacles, GAME OVER
+Game Description:   The Story of the game started when you had a car accident, and when you woke up you found yourself in the                       middle of nowhere. Lost and no clue what had just happend. As you look around for help, you have found                          papers which you think would help you get out. In the way out, many obstacles are going to stop the     
+                    player.Fail in dealing with the obstacles.GAME OVER
                     While in the gameplay, the player has possession of flashlight (that should be used because its really dark                     there!) consuming its battery is helping your game over so better find supplies.
 
 Genre:              Survival Game
 
 Platform:           PC
 
-Language:           C# or unityscript(javascript)
+Language:           C# and unityscript(javascript)
 
 Tools:              Unity
