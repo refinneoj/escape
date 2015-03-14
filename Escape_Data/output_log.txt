@@ -1,0 +1,36 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6613)
+    Vendor:   ATI
+    VRAM:     1011 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\eunice\Desktop\Escape_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\eunice\Desktop\Escape_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\eunice\Desktop\Escape_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\eunice\Desktop\Escape_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\eunice\Desktop\Escape_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\eunice\Desktop\Escape_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\eunice\Desktop\Escape_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\eunice\Desktop\Escape_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.132 seconds
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\eunice\Desktop\Escape_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\eunice\Desktop\Escape_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2820 -> priority: 1 
+  Thread -> id: 2858 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.879731 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1066.
+Total: 0.497289 ms (FindLiveObjects: 0.081482 ms CreateObjectMapping: 0.033899 ms MarkObjects: 0.269326 ms  DeleteObjects: 0.111649 ms)
+
+Platform assembly: C:\Users\eunice\Desktop\Escape_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 29b0 -> priority: 1 
+Platform assembly: C:\Users\eunice\Desktop\Escape_Data\Managed\UnityScript.Lang.dll (this message is harmless)
